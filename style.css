@@ -1,0 +1,26 @@
+body{
+color:rgb(96, 96, 252);
+   background-color:rgb(32, 32, 32);
+   font-family: "IBM Plex Mono", monospace;   
+   font-size: 22px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 550px;
+}
+
+button {
+color: rgb(96, 96, 252);
+background-color: rgb(48, 47, 47);
+font-family: "IBM Plex Mono", monospace;   
+}
+
+.passo{
+   display:none;
+}
+.passo.ativo{
+display:block;
+}
+img{
+ height: 400px;
+}
